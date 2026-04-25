@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Climate Dashboard</title>
+    <style>
+        body { font-family: Arial; margin: 40px; }
+        h1 { color: #2c3e50; }
+        .plot { margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <h1>🌍 African Climate Analysis Dashboard</h1>
+    <h3>Supporting Ethiopia's COP32 Preparation</h3>
+    
+    <div class="plot">
+        <h2>Temperature Trends (2015-2026)</h2>
+        <img src="temperature_trends.png" width="800">
+    </div>
+    
+    <h2>Key Findings</h2>
+    <ul>
+        <li><strong>Sudan</strong> is most vulnerable: 2,694 extreme heat days</li>
+        <li><strong>Ethiopia</strong> is least vulnerable: 0 extreme heat days</li>
+        <li>Sudan average temperature: 28.8°C</li>
+        <li>Ethiopia average temperature: 16.1°C</li>
+    </ul>
+    
+    <h2>Vulnerability Ranking</h2>
+    <table border="1" cellpadding="8">
+        <tr><th>Country</th><th>Avg Temp (°C)</th><th>Extreme Heat Days</th></tr>
+        <tr><td>Sudan</td><td>28.8</td><td>2,694</td></tr>
+        <tr><td>Nigeria</td><td>26.7</td><td>0</td></tr>
+        <tr><td>Tanzania</td><td>26.8</td><td>0</td></tr>
+        <tr><td>Kenya</td><td>20.4</td><td>0</td></tr>
+        <tr><td>Ethiopia</td><td>16.1</td><td>0</td></tr>
+    </table>
+    
+    <p><i>Data source: NASA POWER (2015-2026)</i></p>
+</body>
+</html>
