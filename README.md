@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ## Key Findings
 
 - Sudan is most vulnerable: 2,694 extreme heat days
-- Ethiopia is least vulnerable: 0 extreme heat days
+- Ethiopia is   least vulnerable: 0 extreme heat days
 
 ## Author
 
