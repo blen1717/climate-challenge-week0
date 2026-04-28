@@ -1,3 +1,12 @@
+## Task Completion Status
+
+| Task | Status |
+|------|--------|
+| Task 1: Git & Environment Setup | ✅ Complete |
+| Task 2: Data Profiling & EDA | ✅ Complete |
+| Task 3: Cross-Country Comparison | ✅ Complete |
+| Git Workflow (Branch & PR) | ✅ Complete |
+
 # Climate Challenge - Week 0
 
 ## Project Overview
